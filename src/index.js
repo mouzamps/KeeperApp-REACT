@@ -6,7 +6,7 @@ const year = new Date().getFullYear()
 
 ReactDOM.render(
   <div>
-  <p>Created by {username}</p>
+  <p className="para">Created by {username}</p>
   <p>Copyright {year}</p>
   </div>,
   document.getElementById('root')
