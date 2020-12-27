@@ -1,6 +1,6 @@
 import React from "react"
 
-<div>
+<div className="Header">
 <h1>Keeper</h1>
 </div>
 
