@@ -3,8 +3,12 @@ import Header from "./Header"
 import Footer from "./Footer"
 import Note from "./Note"
 
-function(){
-    return <div></div>
+function App (){
+    return <div>
+        <Header />
+        <Footer />
+        <Note />
+    </div>
 }
 
 export default App
